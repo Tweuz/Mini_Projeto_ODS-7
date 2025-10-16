@@ -28,4 +28,4 @@ Abra o terminal na pasta do projeto e use o comando:
 Bash
 
 streamlit run app.py
-O aplicativo será iniciado no seu navegador padrão (geralmente em http://localhost:8501).
+O aplicativo será iniciado no seu navegador padrão 
